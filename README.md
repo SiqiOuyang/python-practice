@@ -37,8 +37,8 @@
 
 | 主题 | 练习内容 | 代码 | AI 批改与反思 |
 |------|----------|------|----------------|
-| 变量、输入输出 | 个人信息打印、圆面积计算 | [代码](./day1_variables.py) | [反馈](./feedback/day1.md) |
-| 条件判断 | 闰年判断、成绩等级 | [代码](./day2_if.py) | [反馈](./feedback/day2.md) |
+| 变量、输入输出 | 个人信息打印、圆面积计算 | [代码](basic_syntax/day1_variables.py) | [反馈](./feedback/day1.md) |
+| 条件判断 | 闰年判断、成绩等级 | [代码](basic_syntax/day2_if.py) | [反馈](./feedback/day2.md) |
 | 循环 | 阶乘、九九乘法表 | [代码](./day3_loop.py) | [反馈](./feedback/day3.md) |
 | 列表与元组 | 列表去重、排序、切片 | [代码](./day4_list.py) | [反馈](./feedback/day4.md) |
 | 函数 | 素数判断、斐波那契数列 | [代码](./day5_function.py) | [反馈](./feedback/day5.md) |

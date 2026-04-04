@@ -13,7 +13,7 @@ area=math.pi*radius**2
 print(f"半径{radius}圆面积{area:.2f}")
 
 # 变量与输入输出笔记
-
+'''
 ## input() 和 print()
 input() 读取用户输入，返回字符串。
 print() 输出内容，可以拼接多个字符串。
@@ -34,3 +34,4 @@ math.pi 是圆周率，需要先 import math。
 ## 易错点
 - 忘记转换类型，直接 radius = input() 会导致乘法出错。
 - 格式化输出时漏掉f前缀，变量不会替换。
+'''
